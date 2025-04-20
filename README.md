@@ -16,8 +16,4 @@ This repository contains multiple machine learning projects focused on linear re
 - Matplotlib
 - Seaborn
 
-## 🚀 Getting Started
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/Linear_Regression_Projects.git
