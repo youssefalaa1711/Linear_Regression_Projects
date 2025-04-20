@@ -46,26 +46,6 @@ Car-Price-Prediction/
 
 ---
 
-## 🧪 How to Run the Project
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/car-price-prediction.git
-   cd car-price-prediction
-   ```
-
-2. Install the required libraries:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Open the Jupyter Notebook:
-   ```bash
-   jupyter notebook Car_Price_Prediction.ipynb
-   ```
-
----
-
 ## ✅ Output
 
 The notebook trains a Linear Regression model and evaluates its performance using R² score and visualizations. It also makes predictions for selling prices based on input features.
